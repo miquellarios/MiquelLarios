@@ -7,7 +7,7 @@ I like building things, breaking them, and figuring out how to fix them.
 🌍 Catalan · Spanish · English
 
 ## 🔭 What am I currently working on?
-- 🌐 My personal **portfolio**, built with GitHub Pages → [miquellarios-byte.github.io](miquellarios-byte.github.io)
+- 🌐 My personal **portfolio**, built with GitHub Pages → https://miquellarios.github.io/
 - 📚 Learning more about multiplatform and web development as part of my DAM studies
 
 ## 🛠️ What tools do I use?
