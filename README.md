@@ -30,7 +30,7 @@ I like building things, breaking them, and figuring out how to fix them.
 
 ## 📫 How to reach me?
 - ✉️ Email: [miquel28.ml@gmail.com](mailto:miquel28.ml@gmail.com)
-- 🌐 Portfolio: [miquellarios-byte.github.io](https://miquellarios-byte.github.io/miquellarios.github.io/)
+- 🌐 Portfolio: [miquellarios-byte.github.io](https://miquellarios.github.io/)
 
 ---
 ⭐ *Always learning, always building.*
